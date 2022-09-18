@@ -19,10 +19,16 @@ int main()
 ```
 
 ### Work experience:
-Watcom C++ compiler v.10.0 for DOS during 8 years.
+During a work at the research institute it became necessary to write programs for controlling hardware complexes and mathematical processing of experimental results. Watcom C++ compiler was used for these purposes.
 
 ### Education and courses:
-Cernigan, Ritchi
+self-study
+* JavaScript https://learn.javascript.ru/
+* HTML https://ru.code-basics.com/languages/html
+* CSS https://ru.code-basics.com/languages/css
+* Git https://git-scm.com/book/ru/
+
 
 ### Language:
-Roman, Russian and Georgian Alpghabet
+I know the Russian, Latin and Georgian alphabet perfectly
+
