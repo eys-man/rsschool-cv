@@ -18,4 +18,11 @@ int main()
 }
 ```
 
-[link to my cite](http://dota2.ru "обо мне")
+### Work experience:
+Watcom C++ compiler v.10.0 for DOS during 8 years.
+
+### Education and courses:
+Cernigan, Ritchi
+
+### Language:
+Roman, Russian and Georgian Alpghabet
