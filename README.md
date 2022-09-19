@@ -1,5 +1,5 @@
 # rsschool-cv
-cv1 markdown &amp; git
+CV2 HTML, CSS & Git Basics
 ____
 
-[https://eys-man.github.io/rsschool-cv/cv](https://eys-man.github.io/rsschool-cv/cv)
+[https://eys-man.github.io/rsschool-cv](https://eys-man.github.io/rsschool-cv)
